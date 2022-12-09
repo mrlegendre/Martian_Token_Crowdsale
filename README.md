@@ -2,7 +2,14 @@
 
 ![](/Images/application-image.png)
 
-Develop a monetary system based on blockchain technology to define a cryptocurrency named KaseiCoin.  KaseiCoin will be a fungible token that’s ERC-20 compliant. A crowdsale will be launched that will allow people who are moving to Mars to convert their earthling money to KaseiCoin.
+Develop a monetary system based on blockchain technology on Remix IDE using Solidity to define a cryptocurrency named KaseiCoin.  
+KaseiCoin will be a fungible token that’s ERC-20 compliant using OpenZeppelin libraries. 
+A crowdsale will be launched that will allow people who are moving to Mars to convert their earthling money to KaseiCoin.
+
+In this repository the smart contract "KaseiCoinCrowdsale.sol" calls the smart contract for the minted Kasei Coin "KaseiCoin.sol".
+Below are screenshots testing the crowdsale section and ETH raised.
+
+
 
 ## Compiled KaseiCoin.sol
 ![](/Evaluation_Evidence/1-compiled_Kcoin.png)
