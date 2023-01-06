@@ -9,6 +9,8 @@ A crowdsale will be launched that will allow people who are moving to Mars to co
 In this repository the smart contract "KaseiCoinCrowdsale.sol" calls the smart contract for the minted Kasei Coin "KaseiCoin.sol".
 Below are screenshots testing the crowdsale section and ETH raised.
 
+Metamask and Ganache ETH based wallets were used for testing purposes.
+
 
 
 ## Compiled KaseiCoin.sol
